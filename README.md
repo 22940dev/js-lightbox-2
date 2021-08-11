@@ -1,4 +1,4 @@
-# js-lightbox
+# js-lightbox #
 Basic Lightbox based on w3schools
 
 ## Usage
